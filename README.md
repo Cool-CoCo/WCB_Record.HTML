@@ -8,6 +8,8 @@ Web3 暑期实习计划的像素风学习记录站，涵盖 3 周链上入门、
 > 一个像素游戏风格的 Web3 暑期实习计划学习记录站，
 > 用「打关卡」的方式梳理三周链上学习、职业路径探索与团队协作全流程。
 <img width="1530" height="917" alt="WCB_Record网页上传截图1" src="https://github.com/user-attachments/assets/66f3b86d-dd89-4ee4-8767-dd5e57d12f48" />
+<img width="1529" height="926" alt="WCB_Record网页上传截图7" src="https://github.com/user-attachments/assets/23068638-58b7-4eed-95d4-707de65234bb" />
+
 <img width="1525" height="919" alt="WCB_Record网页上传截图2" src="https://github.com/user-attachments/assets/80b7d88d-a239-41ac-abf1-1875503f7320" />
 <img width="1525" height="923" alt="WCB_Record网页上传截图3" src="https://github.com/user-attachments/assets/6d9d3cfe-b93d-4e98-9816-cc2bb7c9df25" />
 <img width="1524" height="919" alt="WCB_Record网页上传截图4" src="https://github.com/user-attachments/assets/91bf1283-9780-46cd-a42a-fc49370836b8" />
