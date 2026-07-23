@@ -14,7 +14,7 @@ Web3 暑期实习计划的像素风学习记录站，涵盖 3 周链上入门、
 <img width="1525" height="923" alt="WCB_Record网页上传截图3" src="https://github.com/user-attachments/assets/6d9d3cfe-b93d-4e98-9816-cc2bb7c9df25" />
 <img width="1524" height="919" alt="WCB_Record网页上传截图4" src="https://github.com/user-attachments/assets/91bf1283-9780-46cd-a42a-fc49370836b8" />
 <img width="1525" height="919" alt="WCB_Record网页上传截图5" src="https://github.com/user-attachments/assets/98a17082-24ba-458e-9260-6866e831550f" />
-<img width="1525" height="921" alt="WCB_Record网页上传截图6" src="https://github.com/user-attachments/assets/097aff1f-f9f8-450c-9276-6b7024274276" />
+<img width="1526" height="924" alt="WCB_Record网页上传截图10" src="https://github.com/user-attachments/assets/e2d50187-c085-4f3e-a0fd-acbb8cd2b7e0" />
 
 ---
 
